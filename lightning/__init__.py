@@ -1,0 +1,2 @@
+from lightning.datamodule import EmbeddedDataModule
+from lightning.module import EmbeddingModule
